@@ -1,2 +1,2 @@
 # MachineLearning
-Basic machine learning by python
+Basic machine learning in python
